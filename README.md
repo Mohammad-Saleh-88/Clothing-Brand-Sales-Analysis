@@ -46,4 +46,17 @@ Through this project, I practiced building interactive Power BI reports, organiz
 
 ## Dashboard Preview
 
-![Clothing Brand Sales Dashboard](dashboard-preview.png)
+### 1. Home Page
+![Home Page](Home-Page.png)
+
+### 2. Products Analysis
+![Products Page](Products-Page.png)
+
+### 3. Orders Analysis
+![Orders Page](Orders-Page.png)
+
+### 4. Sales Analysis
+![Sales Page](Sales-Page.png)
+
+### 5. Retailers Analysis
+![Retailers Page](Retailers-Page.png)
