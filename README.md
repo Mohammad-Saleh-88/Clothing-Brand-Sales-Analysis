@@ -41,3 +41,9 @@ Through this project, I practiced building interactive Power BI reports, organiz
 ---
 
 **Note:** This project was completed as part of my Data Analysis learning journey.
+
+---
+
+## Dashboard Preview
+
+![Clothing Brand Sales Dashboard](dashboard-preview.png)
